@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "Disaster Management System ",
     description:
-      "Disaster-Management-System Software Engineering Project using HTML5, CSS3, PHP and JavaScript The best way to handle a disaster is to be prepared in advance. Besides, with careful planning, the effects of a disaster can be minimized manifold.",
+      "DisastervManagement System Software Engineering Project using HTML5, CSS3, PHP and JavaScript The best way to handle a disaster is to be prepared in advance. Besides, with careful planning, the effects of a disaster can be minimized manifold.",
     url: "https://github.com/talhaStti/Disaster-Management-System",
   },
 ];
