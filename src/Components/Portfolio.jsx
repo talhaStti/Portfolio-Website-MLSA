@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Portfolio.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Microsoft Company";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "HacktoberFest 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " I accomplished HacktoberFest",
+    url: "https://github.com/talhaStti/Hacktoberfest2023-Beginners-New",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Worked on alot of Algorithms",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I pleased to work on algorithms",
+    url: "https://github.com/talhaStti/FunnyAlgorithms",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My linkedIn profile",
+    url: "https://www.linkedin.com/in/talha-satti786/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Disaster Management System ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Disaster-Management-System Software Engineering Project using HTML5, CSS3, PHP and JavaScript The best way to handle a disaster is to be prepared in advance. Besides, with careful planning, the effects of a disaster can be minimized manifold.",
+    url: "https://github.com/talhaStti/Disaster-Management-System",
   },
 ];
 
